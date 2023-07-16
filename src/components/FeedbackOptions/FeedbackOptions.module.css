@@ -3,6 +3,10 @@ button {
   padding: 7px 10px;
   border: none;
   width: 100px;
+  cursor: pointer;
+}
+button:hover {
+  color: aliceblue;
 }
 .btns {
   display: flex;
